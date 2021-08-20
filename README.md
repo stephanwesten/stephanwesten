@@ -1,3 +1,1 @@
-I’m @stephanwesten
-
-Interested in go, kubernetes, cloudflare workers
+I’m Stephan Westen, interested in go, kubernetes, cloudflare workers
