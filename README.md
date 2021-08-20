@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @stephanwesten
-- 👀 I’m interested in go, kubernetes, cloudflare workers
+I’m @stephanwesten
 
-<!---
-stephanwesten/stephanwesten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in go, kubernetes, cloudflare workers
