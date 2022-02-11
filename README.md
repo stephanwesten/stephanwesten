@@ -1,1 +1,1 @@
-I’m Stephan Westen, interested in go, kubernetes, cloudflare workers
+I’m Stephan Westen, interested in Go, Kubernetes, Cloudflare workers
